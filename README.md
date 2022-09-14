@@ -9,18 +9,15 @@ Who sent the messages, when they were sent and the message content are shown to 
 If the user has logged in to her account before, she was directed directly to the home page using 'Local Storage'.
 
 Technologies and structures used;<br>
-~ Formik
-~ Navigation 
-~ State and Lifecycle
-~ Redux
-~ Hooks
-~ Local Storage
-~ Authentication (Firebase)
-~ Realtime Database (Firebase)
-
-
-<p/><p/>
-I used Firebase Authentication and Realtime Database structures.
+~ Formik<br>
+~ Navigation <br>
+~ State and Lifecycle<br>
+~ Redux<br>
+~ Hooks<br>
+~ Local Storage<br>
+~ Authentication (Firebase)<br>
+~ Realtime Database (Firebase)<br>
+<br>
 <p/><p/>
 <img src="https://user-images.githubusercontent.com/77547205/190245275-8a6bb27e-e567-4992-976f-d197ed803221.png" height="550" width="250">
 <img src="https://user-images.githubusercontent.com/77547205/190245278-0238477f-2b5c-4ee3-863c-5c1bb32fcc3c.png" height="550" width="250">
