@@ -7,6 +7,19 @@ Users who do not have an account can register from the signUp screen.
 Messages are sent by typing in the Modal that opens.
 Who sent the messages, when they were sent and the message content are shown to other members.
 If the user has logged in to her account before, she was directed directly to the home page using 'Local Storage'.
+
+Technologies and structures used;<br>
+~ Formik
+~ Navigation 
+~ State and Lifecycle
+~ Redux
+~ Hooks
+~ Local Storage
+~ Authentication (Firebase)
+~ Realtime Database (Firebase)
+
+
+<p/><p/>
 I used Firebase Authentication and Realtime Database structures.
 <p/><p/>
 <img src="https://user-images.githubusercontent.com/77547205/190245275-8a6bb27e-e567-4992-976f-d197ed803221.png" height="550" width="250">
