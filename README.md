@@ -17,6 +17,18 @@ Technologies and structures used;<br>
 ~ Local Storage<br>
 ~ Authentication (Firebase)<br>
 ~ Realtime Database (Firebase)<br>
+*******************
+BanaNE, kullanıcıların birbirlerinin sorunları hakkında konuşabilecekleri bir uygulama. Kullanıcılar birbirlerinin mesajlarına 'BanaNE' olarak beğenmeme tepkisi gösterebilirler. Kullanıcılar varsa kendi hesapları ile giriş yapabilirler. Hesabı olmayan kullanıcılar kayıt olma ekranından kayıt olabilirler. Açılan Modal'a mesajlarını yazarak gönderebilirler. Mesajların kim tarafından, ne zaman gönderildiği ve mesaj içeriği diğer üyelere gösterilir. Kullanıcı daha önce hesabına giriş yaptıysa, 'Local Storage' kullanılarak doğrudan ana sayfaya yönlendirilir. Proje hakkında detaylı bilgiye Github hesabımdan ulaşabilirsiniz. İyi Çalışmalar..<br>
+
+Kullanılan Yapılar;<br>
+~ Formik<br>
+~ Navigation<br>
+~ State and Lifecycle<br>
+~ Redux<br>
+~ Hooks<br>
+~ Local Storage<br>
+~ Authentication (Firebase)<br>
+~ Realtime Database (Firebase)<br>
 <br>
 <p/><p/>
 <img src="https://user-images.githubusercontent.com/77547205/190245275-8a6bb27e-e567-4992-976f-d197ed803221.png" height="550" width="250">
